@@ -2,9 +2,9 @@
   Hi there 👋 I'm Hamid 
 </h1>
 
-<p align='center'>
-  I'm a machine learning researcher and a 2nd-year M.Sc. student in Mathematics and Statistics at the University of Calgary. I'm always curious about what's under the hood of machine learning models as the devil is in the details. In my recent work, I designed and implemented a novel optimization procedure for a traditional machine learning model. I used Pytorch and Pyro for GPU acceleration and showed that my proposed model outperforms state-of-the-art deep learning solutions.
-<p align='center'>
+
+I'm a machine learning researcher and a 2nd-year M.Sc. student in Mathematics and Statistics at the University of Calgary. I'm always curious about what's under the hood of machine learning models as the devil is in the details. In my recent work, I designed and implemented a novel optimization procedure for a traditional machine learning model. I used Pytorch and Pyro for GPU acceleration and showed that my proposed model outperforms state-of-the-art deep learning solutions.
+
 
 <a href="https://www.linkedin.com/in/hamid-hamidi/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
