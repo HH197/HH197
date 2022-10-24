@@ -19,7 +19,7 @@ I'm a machine learning researcher and a M.Sc. student in Mathematics and Statist
 - 📫 How to reach me: <a href='mailto:hamid.hamidi@ucalgary.ca'>hamid.hamidi@ucalgary.ca</a>
 
 
-Technologies I've been learning and using so far :
+Technologies I've been learning and using so far:
 
 - Programming languages: <br />
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
