@@ -7,16 +7,3 @@ I'm a machine learning researcher and a M.Sc. student in Mathematics and Statist
 
 In my free time, I like to read, hike, travel, and watch documentaries and TV series.
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/hamid-hamidi/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-</p>
-</p>
-
-
-- 🌱 Currently, I'm developing high-level APIs to accelerate workflows of my recent model.
-
-
-- 📫 How to reach me: <a href='mailto:hamid.hamidi@ucalgary.ca'>hamid.hamidi@ucalgary.ca</a>
-
