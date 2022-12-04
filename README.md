@@ -3,7 +3,7 @@
 </h1>
 
 
-I'm a machine learning researcher and a M.Sc. student in Mathematics and Statistics at the University of Calgary. I'm always curious about what's under the hood of machine learning models, as the devil is in the details. In my recent work, I designed and implemented a novel optimization procedure for a traditional machine learning model. I used Pytorch and Pyro for GPU acceleration and showed that my proposed model outperforms state-of-the-art deep learning solutions. Check out my Portfolio for all of my projects, micro-projects, skills, certificates, and achievements.
+I'm a machine learning researcher and a M.Sc. student in Mathematics and Statistics at the University of Calgary. I'm always curious about what's under the hood of machine learning models, as the devil is in the details. In my recent work, I designed and implemented a novel optimization procedure for a traditional machine learning model. I used Pytorch and Pyro for GPU acceleration and showed that my proposed model outperforms state-of-the-art deep learning solutions. Check out my [Portfolio](https://github.com/HH197/Portfolio) for all of my projects, micro-projects, skills, certificates, and achievements.
 
 In my free time, I like to read, hike, travel, and watch documentaries and TV series.
 
@@ -20,31 +20,3 @@ In my free time, I like to read, hike, travel, and watch documentaries and TV se
 
 - 📫 How to reach me: <a href='mailto:hamid.hamidi@ucalgary.ca'>hamid.hamidi@ucalgary.ca</a>
 
-
-Technologies I've been learning and using so far:
-
-- Programming languages: <br />
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-    ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    
-- Frameworks and libraries: <br />
-    ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-    ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-    ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-    ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-    ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-    ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-    
-    ![ggplot2](https://img.shields.io/badge/-ggplot2-blue&?style=for-the-badge&color=black)
-    
-- Databases : <br />
-    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-- OS & IDE & Tools : <br />
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    
-    ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
-    ![Rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-    ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-    
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
